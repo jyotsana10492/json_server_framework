@@ -13,7 +13,7 @@ private Object token;
 	{
 	baseURI ="http://localhost";
 
-	port=3000;
+	port=4000;
 
 	//given().auth().basic(userName, password);
 	//given().auth().oauth2(token);
